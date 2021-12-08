@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  width: 100%;
+  min-height: 100vh;
+  background-image: url(photo.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* Photo by David Marcu on Unsplash
+https://unsplash.com/s/photos/nature?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText */
